@@ -299,7 +299,7 @@ else
     status_nginx="${red}OFF${NC}"
 fi
 clear                    
-figlet 'ILHAM STORE' | lolcat
+figlet 'LAKSMANA27' | lolcat
                     echo -e "${Kcyan}┌───────────────────────────────────────────┐${NC}" 
                     echo -e "${Kcyan}│${NC} ${white} IP VPS  ${NC}: $IPVPS"
                     echo -e "${Kcyan}│${NC} ${white} CPU     ${NC}: $cpu_usage"  
@@ -318,7 +318,7 @@ figlet 'ILHAM STORE' | lolcat
                     echo -e "${Kcyan}┌───────────────────────────────────────────┐${NC}"
                     echo -e "${Kcyan}│${NC}${whiteK}           Client : ${NC}${MK} $Name${NC}"
                     echo -e "${Kcyan}│${NC}${whiteK}           Xpired : ${NC}${MK} $exp2 Day${NC}"
-                    echo -e "${Kcyan}│${NC}${WhiteK}           Autorz : ${NC}${GR} ILHAM-STORE${NC}"
+                    echo -e "${Kcyan}│${NC}${WhiteK}           Autorz : ${NC}${GR} LAKSMANA27${NC}"
                     echo -e "${Kcyan}└───────────────────────────────────────────┘${NC}"
                     echo -e "${Kcyan}┌───────────────────────────────────────────┐${NC}"
                     echo -e "${Kcyan}│${NC}${Kbiru} [•1]${NC}📨 ${white} SSH${NC}        " "${Kbiru}[•8]${NC}📨 ${white} BACKUP${NC}       "  "${Kcyan}│${NC}"
